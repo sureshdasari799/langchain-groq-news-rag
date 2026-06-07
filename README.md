@@ -2,6 +2,20 @@
 
 A Streamlit-based Retrieval-Augmented Generation (RAG) application that allows users to load news article URLs, build a FAISS vector index, and ask source-grounded questions using Groq LLMs and HuggingFace embeddings.
 
+## Application Screenshots
+
+### Home Page
+
+![Home Page](assets/home.png)
+
+### URL Processing
+
+![Processing](assets/processing.png)
+
+### Question Answering
+
+![Answer](assets/answer.png)
+
 ## Features
 
 - Load up to three news article URLs
