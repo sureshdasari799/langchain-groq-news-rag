@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Generated Vector Database
+faiss_store_groq.pkl
+
+# Jupyter
+.ipynb_checkpoints/
